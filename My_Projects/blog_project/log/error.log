@@ -1,0 +1,60 @@
+2017-01-07 22:21:32,210 blog.views 24 index ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py [Errno 2] No such file or directory: 'text.txt'
+2017-01-07 23:58:49,760 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-07 23:59:43,260 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-07 23:59:43,864 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-07 23:59:53,951 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:00:20,026 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:00:20,630 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:00:20,890 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:02:34,378 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:02:35,892 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:03:10,986 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:03:18,154 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 00:04:56,328 blog.views 105 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py global name 'CommentForm' is not defined
+2017-01-08 12:25:29,471 blog.views 192 do_login ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-01-08 12:26:43,177 blog.views 167 do_reg ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-01-08 12:27:36,054 blog.views 192 do_login ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-01-08 21:04:29,402 blog.views 69 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py (1271, "Illegal mix of collations for operation 'like'")
+2017-01-08 21:36:53,622 blog.views 74 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'Article' object has no attribute '__getitem__'
+2017-01-08 21:37:00,096 blog.views 74 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'Article' object has no attribute '__getitem__'
+2017-01-08 21:37:22,361 blog.views 74 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'Article' object has no attribute '__getitem__'
+2017-01-08 21:39:23,236 blog.views 74 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'Article' object has no attribute '__getitem__'
+2017-01-08 23:01:19,092 blog.views 122 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'Article' object has no attribute '__getitem__'
+2017-01-08 23:04:04,419 blog.views 122 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'ManyRelatedManager' object has no attribute 'split'
+2017-01-08 23:06:19,559 blog.views 122 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'ManyRelatedManager' object has no attribute 'split'
+2017-01-08 23:06:23,194 blog.views 122 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py type object 'Tag' has no attribute 'split'
+2017-01-08 23:08:25,182 blog.views 122 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py type object 'Tag' has no attribute 'split'
+2017-01-08 23:14:15,829 blog.views 78 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py int() argument must be a string or a number, not 'dict'
+2017-01-08 23:14:24,171 blog.views 78 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py int() argument must be a string or a number, not 'dict'
+2017-01-08 23:15:17,762 blog.views 78 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py int() argument must be a string or a number, not 'dict'
+2017-01-08 23:15:52,966 blog.views 78 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py int() argument must be a string or a number, not 'dict'
+2017-01-08 23:15:55,624 blog.views 78 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'dict' object has no attribute 'tag'
+2017-01-08 23:16:25,665 blog.views 79 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'dict' object has no attribute 'tag'
+2017-01-08 23:16:47,214 blog.views 79 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py 'dict' object has no attribute 'tag'
+2017-01-08 23:21:51,194 blog.views 83 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Tag matching query does not exist.
+2017-01-08 23:21:59,419 blog.views 83 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Tag matching query does not exist.
+2017-01-08 23:28:55,514 blog.views 77 tag ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Tag matching query does not exist.
+2017-01-08 23:56:52,670 blog.views 66 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py invalid literal for int() with base 10: '{ article_list.next_page_number }}            '
+2017-01-08 23:57:04,066 blog.views 66 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py invalid literal for int() with base 10: '{ article_list.next_page_number }}            '
+2017-01-08 23:58:58,299 blog.views 66 archive ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py invalid literal for int() with base 10: '{ article_list.next_page_number }}'
+2017-01-10 00:02:36,620 blog.views 154 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py append() takes exactly one argument (2 given)
+2017-01-10 00:02:38,616 blog.views 154 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py append() takes exactly one argument (2 given)
+2017-01-10 00:02:39,523 blog.views 154 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py append() takes exactly one argument (2 given)
+2017-01-10 00:04:41,158 blog.views 154 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py append() takes exactly one argument (2 given)
+2017-01-10 00:05:17,500 blog.views 152 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:05:55,382 blog.views 152 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:10:57,223 blog.views 152 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:11:00,646 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:11:02,801 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:11:24,849 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:11:28,255 blog.views 160 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:11:45,033 blog.views 160 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:13:09,684 blog.views 160 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:13:12,280 blog.views 160 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:14:49,367 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 00:14:54,553 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 08:24:06,418 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-10 08:24:07,930 blog.views 159 article ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py User matching query does not exist.
+2017-01-11 23:00:47,208 blog.views 239 do_login ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-01-11 23:03:19,039 blog.views 241 do_login ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2017-01-11 23:07:52,775 blog.views 244 do_login ERROR /home/tinq/PycharmProjects/My_Projects/blog_project/blog/views.py Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []

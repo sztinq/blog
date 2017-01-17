@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div>
+    {% for i in article_comment_list %}
+    {{ i.title }}
+    {% endfor %}
+
+</div>
+
+ <div>
+                    <ul>
+                        {% for a in artical_comment_list %}
+                        <li>{{ a.title }}</li>
+                        {% endfor %}
+                    </ul>
+             </div>
+
+</body>
+</html>
