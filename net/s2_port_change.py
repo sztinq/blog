@@ -7,26 +7,24 @@ floor = raw_input("请输入楼层[F1|F2|F3|F4|F5]:")
 s2_interface_command = raw_input("请输入接入交换机接口命令：")
 # floor = 'F5'
 if floor == 'F5':
-    s3_ip = '192.168.13.225'
+    s3_ip = '*.*.*.*'
 elif floor == 'F4':
-    s3_ip = '192.168.13.193'
+    s3_ip = '*.*.*.*'
 elif floor == 'F3':
-    s3_ip = '192.168.13.161'
+    s3_ip = '*.*.*.*'
 elif floor == 'F2':
-    s3_ip = '192.168.13.129'
+    s3_ip = '*.*.*.*'
 elif floor == 'F1':
-    s3_ip = '192.168.13.97'
+    s3_ip = '*.*.*.*'
 else:
     print("输入的楼层错误！")
     exit()
 enter_key = '\r\n'
-s3_username = '20017'
-s3_password = 'xxjsb@ks.net'
-s2_username = 'sunzhaozeng'
-s2_password = 'szlch@781213'
+s3_username = '***'
+s3_password = '***'
+s2_username = '***'
+s2_password = '***'
 delay_sec = 5
-# user_ip = '192.168.141.52'
-#s3_ip = '192.168.13.225'
 s2_ip = ''
 port = '23'
 command_arp = 'dis arp | in ' + user_ip
@@ -72,7 +70,7 @@ res = tn.read_very_eager()
 
 line = res.split()
 for l in line:
-    if l.__contains__('192.168.13'):
+    if l.__contains__('***'):
         # print l
         s2_ip = l
 tn.close()
