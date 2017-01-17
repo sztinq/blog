@@ -5,10 +5,10 @@ import time
 user_mac = raw_input("请输入MAC地址：")
 enter_key = '\r\n'
 username = 'admin'
-password = 'xxjsb@ARUBA2016'
-enable_pwd = 'ksaruba2015'
+password = '***'
+enable_pwd = '***'
 delay_sec = 5
-aruba_ip = '192.168.95.100'
+aruba_ip = '*.*.*.*'
 port = '23'
 add_mac = 'stm add-blacklist-client ' + user_mac
 
